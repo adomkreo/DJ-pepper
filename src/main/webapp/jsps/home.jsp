@@ -16,7 +16,7 @@ What sets DJ-Pepper apart from other hot sauce brands is their use of all-natura
 
 So, if you're looking for a high-quality and flavorful hot sauce to spice up your meals, DJ-Pepper is definitely worth trying. Check out their website or social media pages to learn more about their products and where to purchase them.
 	</h2>
-	<h2 align="center" >Haoua has the best hot sauce! if you dont beleive me, try it!!!</h2>
+	<h2 align="center" >Haoua has the best hot sauce! if you dont beleive me, try it!!! Make sure you contact the number below</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
