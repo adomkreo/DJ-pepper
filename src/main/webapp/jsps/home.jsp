@@ -4,37 +4,39 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Global Information Technology Solutions Group- Home Page</title>
+<title> DJ'S PEPPER LLC - Home Page</title>
 <link href="images/LT.JPG" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">This is Global Information Technology Solutions Group</h1>
-<h2 align="center">Thank you for visiting Global Technology Solutions Group. We are an IT firm with expertise in building, deploying, and managing applications. We are proud to showcase our Maven-Web-App.
+<h1 align="center">This DJ'S PEPPER BY HAOUA</h1>
+<h2 align="center">DJ-Pepper is a hot sauce company owned by Haoua, offering a range of delicious and flavorful hot sauces that are sure to add a kick to any dish. Whether you're a fan of mild or extra hot, DJ-Pepper has a sauce that will satisfy your taste buds.
 
-By the way, one of our team members, Haoua, will be conducting a DevOps interview tomorrow. We wish all the best to the candidates who will be participating!
+What sets DJ-Pepper apart from other hot sauce brands is their use of all-natural ingredients and traditional recipes, which ensure that every bottle of hot sauce is packed with authentic flavor and heat. Additionally, their sauces are gluten-free, vegan-friendly, and contain no artificial preservatives, making them a healthier choice for hot sauce lovers.
+
+So, if you're looking for a high-quality and flavorful hot sauce to spice up your meals, DJ-Pepper is definitely worth trying. Check out their website or social media pages to learn more about their products and where to purchase them.
 	</h2>
-	<h2 align="center" >Domkreo, A is the best DevOps engineer</h2>
+	<h2 align="center" >Haoua has the best hot sauce</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/logo.png" alt="" width="250">
+	
 	</span>
 	<span style="font-weight: bold;">
-		Global Information Technlogy Solutions Group, 
+		DJ's Pepper LLC, 
 		Glen Burnie, MD
-		+1 301 642 3816,
-		ahmeddomkreo@gmail.com
+		+1 301 605 5300,
+		HDJAMON05@gmail.com
 		<br>
-		<a href="mailto:AHMEDDOMKREO@GMAIL.COM">Mail to GITSG</a>
+		<a href="mailto:HDJAMON05@GMAIL.COM">Mail to GITSG</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Global Information Technology Solution Group  - Consultant, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://smartuniversaldevops.com">Global Information Technology Solutions Group</a> </small></p>
+<p align=center>DJ'S PEPPER LLC  - Consultant, Development Center.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://djspepper.com"></a> </small></p>
 
 </body>
 </html>
