@@ -9,14 +9,14 @@
 </head>
 </head>
 <body>
-<h1 align="center">This DJ'S PEPPER BY HAOUA</h1>
+<h1 align="center">This DJ'S Pepper By HAOUA</h1>
 <h2 align="center">DJ-Pepper is a hot sauce company owned by Haoua, offering a range of delicious and flavorful hot sauces that are sure to add a kick to any dish. Whether you're a fan of mild or extra hot, DJ-Pepper has a sauce that will satisfy your taste buds.
 
 What sets DJ-Pepper apart from other hot sauce brands is their use of all-natural ingredients and traditional recipes, which ensure that every bottle of hot sauce is packed with authentic flavor and heat. Additionally, their sauces are gluten-free, vegan-friendly, and contain no artificial preservatives, making them a healthier choice for hot sauce lovers.
 
 So, if you're looking for a high-quality and flavorful hot sauce to spice up your meals, DJ-Pepper is definitely worth trying. Check out their website or social media pages to learn more about their products and where to purchase them.
 	</h2>
-	<h2 align="center" >Haoua has the best hot sauce</h2>
+	<h2 align="center" >Haoua has the best hot sauce! if you dont beleive me, try it!!!</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
